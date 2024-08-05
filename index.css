@@ -1,0 +1,64 @@
+
+
+
+.card{
+    background-color: blanchedalmond;
+    width:600px;
+    height: 700px;
+    border-radius: 10px;
+    margin-left:550px;
+    margin-top: 100px;
+}
+#heading{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+#paragraph{
+    text-align: center;
+    font-size: 30px;
+}
+#form{
+    margin-left: 150px;
+    gap:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#name{
+   
+    padding: 10px 10px;
+    width:300px;
+    text-align: center;
+}
+#name1{
+   
+    padding: 10px 10px;
+    width:300px;
+    text-align: center;
+}
+#number{
+    padding: 10px 10px;
+    width:300px;
+    text-align: center;
+    
+}
+#email{
+    padding: 10px 10px;
+    width:300px;
+    text-align: center;
+}
+#password{
+    padding: 10px 10px;
+    width:300px;
+    text-align: center;
+}
+#input-btn{
+    padding: 5px 5px;
+    width:200px;
+    text-align: center;
+    margin-left: 55px;
+    background-color: green;
+    border-radius: 5px;
+
+}
